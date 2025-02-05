@@ -139,3 +139,8 @@ docker logs -f postgres_container
 ## Conclusion
 This setup provides a robust way to develop and run a Spring Boot application with PostgreSQL using Docker. Happy coding! 🚀
 
+---
+ 
+# License
+This project is licensed under the GNU GENERAL PUBLIC LICENSE V.3 - see the [LICENSE](./LICENSE) file for details.
+
