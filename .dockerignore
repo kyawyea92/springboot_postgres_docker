@@ -1,0 +1,8 @@
+*.class
+*.war
+*.ear
+.idea/
+.git
+.gitignore
+.mvn/
+postgres_data/
